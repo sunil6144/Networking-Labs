@@ -36,4 +36,4 @@ Connectivity was verified using ping between the configured devices.
 
 The simulation mode was used to observe how the packet travels through the network.
 
-![Packet Flow](packet-flow.png)
+![Packet Flow](PDU-OSI-details.png)
