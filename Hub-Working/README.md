@@ -30,4 +30,4 @@ This lab was created as part of my self-learning journey in computer networking 
 
 Connectivity was verified using ping between the configured devices.
 
-![Ping Verification](screenshots/connectivity-test.png)
+![Ping Verification](connectivity-test.png)
