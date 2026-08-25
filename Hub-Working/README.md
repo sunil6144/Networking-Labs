@@ -22,3 +22,7 @@ Through this lab, I learned how devices communicate through a hub and how networ
 
 ## Learning Source
 This lab was created as part of my self-learning journey in computer networking and cybersecurity.
+## Network Topology
+
+![Network Topology](topology.png)
+
