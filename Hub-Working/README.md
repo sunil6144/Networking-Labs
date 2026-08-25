@@ -31,3 +31,9 @@ This lab was created as part of my self-learning journey in computer networking 
 Connectivity was verified using ping between the configured devices.
 
 ![Ping Verification](connectivity-test.png)
+
+## Packet Flow
+
+The simulation mode was used to observe how the packet travels through the network.
+
+![Packet Flow](packet-flow.png)
