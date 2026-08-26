@@ -57,8 +57,12 @@ This confirms successful communication between the hosts through the switch.
 ---
 
 ## MAC Address Learning
+![MAC address-table](MAC-address-table.png)
+
 
 The switch's MAC address table was inspected using:
 
 ```text
 show mac address-table
+
+
