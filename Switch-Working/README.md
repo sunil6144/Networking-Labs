@@ -50,7 +50,7 @@ The test resulted in:
 - Packets Received: 4
 - Packet Loss: 0%
   
-![Connectivity Test](Switch-Connectivity-Test.png)
+![Connectivity Test](./Switch-Connectivity-Test.png)
 
 This confirms successful communication between the hosts through the switch.
 
@@ -65,5 +65,6 @@ The switch's MAC address table was inspected using:
 
 ```text
 show mac address-table
+```
 
 
