@@ -58,13 +58,22 @@ This confirms successful communication between the hosts through the switch.
 
 ## MAC Address Learning
 
-![MAC address-table](MAC-address-table.png)
-
-
 The switch's MAC address table was inspected using:
 
 ```text
 show mac address-table
 ```
 
+![MAC Address Table](./MAC-address-table.png)
+
+The switch dynamically learned the MAC addresses of connected devices and associated them with their respective FastEthernet ports.
+
+
+## ARP and Packet Analysis
+
+Cisco Packet Tracer Simulation Mode was used to inspect the packet and understand its behavior across the network.
+
+![PDU and OSI Details](./Switch-PDU-OSI-details.png)
+
+The PDU analysis demonstrates ARP broadcast behavior and Layer 2 Ethernet communication between the hosts.
 
