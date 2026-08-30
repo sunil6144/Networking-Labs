@@ -84,7 +84,7 @@ This network contains:
 
 The following topology screenshot was captured directly from Packet Tracer for visual reference.
 
-![Router Topology](Router-topology.png)
+![Router Topology](Router%20topology.png)
 
 ---
 
@@ -92,7 +92,7 @@ The following topology screenshot was captured directly from Packet Tracer for v
 
 Router interfaces were configured with appropriate IP addresses and enabled to establish communication between different networks.
 
-![Router Configuration and Interface Verification](Router-Configuration-Interface-Verification.png)
+![Router Configuration and Interface Verification](Router%20Configuration%20/Interface%20Verification.png)
 
 ---
 
@@ -113,7 +113,7 @@ A DNS service was configured to resolve the custom domain:
 
 `www.hello.com`
 
-![Router DNS Configuration](Router-DNS-Configuration.png)
+![Router DNS Configuration](Router%20DNS%20Configuration.png)
 
 ---
 
@@ -135,7 +135,7 @@ Connectivity was verified by accessing the configured web service through the do
 
 The successful webpage response demonstrates that DNS resolution, routing, and HTTP communication were functioning correctly.
 
-![Router Connectivity Test](Router-Connectivity-Test.png)
+![Router Connectivity Test](Router%20Connectivity%20Test.png)
 
 ---
 
@@ -143,4 +143,4 @@ The successful webpage response demonstrates that DNS resolution, routing, and H
 
 Cisco Packet Tracer's Simulation Mode was used to inspect how application traffic travels through the network. The PDU information was examined across the OSI layers, including TCP, IP, and Ethernet information.
 
-![Router PDU OSI Details](Router-PDU-OSI-details.png)
+![Router PDU OSI Details](Router%20PDU%20OSI%20details.png)
