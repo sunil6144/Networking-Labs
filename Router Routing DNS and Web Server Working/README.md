@@ -92,7 +92,7 @@ The following topology screenshot was captured directly from Packet Tracer for v
 
 Router interfaces were configured with appropriate IP addresses and enabled to establish communication between different networks.
 
-![Router Configuration and Interface Verification](Router%20Configuration%20/Interface%20Verification.png)
+![Router Configuration and Interface Verification](Router%20Configuration%20Interface%20Verification.png)
 
 ---
 
