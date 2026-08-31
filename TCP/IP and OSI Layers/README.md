@@ -64,10 +64,9 @@ This view is useful for understanding real header field sizes (e.g., TTL, checks
 
 ## Outbound PDU Details
 
-<!-- Screenshot not yet added — enable once uploaded by removing this comment block:
 The **Outbound PDU Details** tab shows the same breakdown for the reply traveling back from the server to the client, confirming symmetric header handling in the reverse direction.
 
-![Outbound PDU Details](Outbound-PDU-Details.png)
+<!-- ![Outbound PDU Details](Outbound%20PDU%20details.png)
 -->
 
 ---
