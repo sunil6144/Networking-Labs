@@ -58,7 +58,7 @@ The **Inbound PDU Details** tab breaks down the exact byte-level and bit-level s
 
 This view is useful for understanding real header field sizes (e.g., TTL, checksum, sequence number, flags) as defined by RFC standards.
 
-![Inbound PDU Details](Inbound-PDU-Details.png)
+![Inbound PDU details](Inbound%20PDU%20details.png)
 
 ---
 
