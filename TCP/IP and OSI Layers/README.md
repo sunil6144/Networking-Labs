@@ -48,7 +48,7 @@ Using Packet Tracer's Simulation Mode, the PDU Information window was opened at 
 
 This confirms how a single HTTP request is progressively wrapped (encapsulated) with headers at each layer before transmission, and unwrapped in reverse order at the receiver.
 
-![OSI Model Details](OSI-Model-Details.png)
+![OSI Model Details](OSI%20Model%20Details.png)
 
 ---
 
