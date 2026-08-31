@@ -25,7 +25,7 @@ The goal of this lab is to visually connect theoretical OSI/TCP-IP concepts (enc
 
 A basic client-server setup was used, with a PC/laptop initiating an HTTP request to a web server across the network.
 
-![TCP and OSI Layer Topology](TCP-and-OSI-Layer-Topology.png)
+![TCP and OSI Layer Topology](TCP-and-OSI-Layer-topology.png)
 
 ---
 
