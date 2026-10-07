@@ -129,7 +129,7 @@ All three leases are marked **Automatic**, confirming no static DHCP reservation
 
 To directly observe the DHCP lease process, PC1's address was manually released and then renewed.
 
-![DHCP release/renew](DHCP%20release/renew.png)
+![DHCP release/renew](DHCP%20release%20renew.png)
 
 ```text
 C:\>ipconfig /release
