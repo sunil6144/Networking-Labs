@@ -13,8 +13,7 @@ A hands-on security lab demonstrating how **DHCP Snooping** protects a LAN from 
 5. [Configuration](#configuration)
 6. [Verification and Evidence](#verification-and-evidence)
 7. [Troubleshooting](#troubleshooting)
-8. [Repository Structure](#repository-structure)
-9. [Key Takeaways](#key-takeaways)
+8. [Key Takeaways](#key-takeaways)
 
 ---
 
@@ -251,23 +250,6 @@ Three leases on R1 do not automatically mean the switch learned three snooping b
 **If bindings are still 0**
 
 Use Packet Tracer **Simulation Mode** (filter: DHCP) to trace the Discover, Offer, Request, and ACK packets and identify the stage where traffic is dropped.
-
----
-
-## Repository Structure
-
-```
-DHCP-Snooping/
-├── DHCP Snooping.pkt
-├── DHCP Snooping Topology.png
-├── Initial DHCP Test.png
-├── DHCP Snooping Configuration.png
-├── Trusted Port Configuration.png
-├── DHCP Snooping Binding Table.png
-├── DHCP Renewal Test.png
-├── Rogue DHCP Test.png
-└── README.md
-```
 
 ---
 
